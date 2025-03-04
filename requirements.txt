@@ -1,0 +1,5 @@
+matplotlib
+echo matplotlib 
+pandas
+numpy
+streamlit
